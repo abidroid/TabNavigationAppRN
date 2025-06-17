@@ -15,6 +15,7 @@ const BottomNavigation = () => {
             <Tab.Screen 
                 name={Routes.Home}
                 component={HomeScreen}
+                
             />
             
             <Tab.Screen 
